@@ -1,0 +1,30 @@
+{
+  "content_version": 1,
+  "last_updated": "2026-03-03",
+
+  "daily_challenge": {
+    "date": "2026-03-03",
+    "title": "Why is Tacitus important for Christian history?",
+    "article_id": "arch_tacitus_01"
+  },
+
+  "new_articles": [
+    {
+      "id": "arch_tacitus_01",
+      "title": "Tacitus and Early Christian History",
+      "category": "Archaeology",
+      "content": "Full article text here...",
+      "updated_at": "2026-03-03"
+    }
+  ],
+
+  "notifications": [
+    {
+      "id": "notif_001",
+      "type": "new_article",
+      "title": "New Archaeology Article Added",
+      "target_id": "arch_tacitus_01",
+      "created_at": "2026-03-03"
+    }
+  ]
+}
