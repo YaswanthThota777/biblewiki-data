@@ -1,30 +1,35 @@
 {
-  "content_version": 1,
-  "last_updated": "2026-03-03",
-
-  "daily_challenge": {
-    "date": "2026-03-03",
-    "title": "Why is Tacitus important for Christian history?",
-    "article_id": "arch_tacitus_01"
-  },
-
+  "content_version": 2,
   "new_articles": [
     {
-      "id": "arch_tacitus_01",
-      "title": "Tacitus and Early Christian History",
-      "category": "Archaeology",
-      "content": "Full article text here...",
-      "updated_at": "2026-03-03"
+      "title": "Death Before the Fall",
+      "subtitle": "Did Animals Die Before Adam Sinned?",
+      "categoryId": 5,
+      "premium": false,
+      "readingTimeMinutes": 10,
+      "primaryTags": "creation, adam, fall, death, genesis, evolution",
+      "bibleReferences": "Genesis 1-3; Romans 5:12; 1 Corinthians 15:21-22; Romans 8:20-22",
+      "content": "## The Question That Divides Christians\n\nDid animals die before Adam and Eve sinned? This is one of the most hotly debated questions at the intersection of science and Scripture.\n\nTwo major Christian positions exist:\n- **Young Earth View:** No death of any kind existed before the Fall.\n- **Old Earth View:** Animal death existed before Adam, but *human* spiritual death entered through sin.\n\n## What Genesis Actually Says\n\n**Genesis 1:29-30:**\n> \"I give you every seed-bearing plant... and every green plant for food.\"\n\nGod's original diet for humans AND animals was plant-based. This strongly implies a world without predation or killing.\n\n**Genesis 3:21:**\n> \"The LORD God made garments of skin for Adam and his wife.\"\n\nThis is the **first recorded death** in Scripture — an animal killed by God to cover their shame. It foreshadows the entire sacrificial system pointing to Christ.\n\n## Romans 5:12 — The Central Verse\n\n> \"Just as sin entered the world through one man, and **death through sin**, and in this way death came to all people...\"\n\n**Young Earth Argument:** Death entered through sin — so zero death existed before the Fall. Romans 8:20-22 confirms creation is in 'bondage to decay', implying a pre-Fall world free from corruption entirely.\n\n**Old Earth Argument:** The Greek says death came to all *people* (anthropos), not all creatures. Animal death predating humans is simply nature as God designed it.\n\n## The Fossil Record Problem\n\nThis is where the debate gets sharpest.\n\n**Young Earth:** Dinosaur fossils showing predation (T-Rex, prey bones with bite marks) resulted from post-Fall changes in animal nature. Genesis 1 describes lions eating grass, T-Rex eating plants.\n\n**Old Earth:** The fossil record predates humans by hundreds of millions of years. God used natural processes including death to shape the world. 'Very good' in Genesis 1:31 doesn't require zero death — it means God's purposes were fulfilled.\n\n## Thorns: A Key Clue\n\n**Genesis 3:17-18:**\n> \"Cursed is the ground... it will produce thorns and thistles for you.\"\n\nFossil records show **thorns existed long before any possible date for Adam**. Young Earth creationists argue these thorns were different plants. Old Earth scholars say this proves physical thorns predate the Fall.\n\n## What Did Paul Mean?\n\n1 Corinthians 15:21-22:\n> \"For since death came through a man, the resurrection of the dead comes also through a man.\"\n\nPaul's entire argument is about **human death and resurrection** — the death Christ conquers. The parallel is Adam → human death / Christ → human resurrection. Animals are not in view.\n\n## C.S. Lewis's Insight\n\nIn *The Problem of Pain*, Lewis suggested that animal suffering before the Fall may have been caused by a **pre-Adamic fall of Satan**, who corrupted the natural order before humans arrived.\n\nThis is speculative but shows even orthodox theologians found creative ways to reconcile the fossil record with Scripture.\n\n## The Bottom Line\n\nBoth positions are held by faithful, Bible-believing Christians:\n\n| Position | Death Before Fall? | How they read Romans 5:12 |\n|---|---|---|\n| Young Earth | No death at all | All death — spiritual AND physical — entered through Adam |\n| Old Earth | Animal death yes, human death no | 'Death' refers specifically to human spiritual/physical death |\n\nWhat is **not debatable** for either view: **Adam's sin had real, catastrophic consequences**. Whether animals died before or not, human death, suffering, and separation from God entered through the Fall. And Christ is the only solution.\n\n> **The mystery isn't just theological — it's a reminder that creation groans, and we groan with it, waiting for the resurrection.**\n\n_Romans 8:22: 'We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.'_"
     }
   ],
-
-  "notifications": [
-    {
-      "id": "notif_001",
-      "type": "new_article",
-      "title": "New Archaeology Article Added",
-      "target_id": "arch_tacitus_01",
-      "created_at": "2026-03-03"
-    }
-  ]
+  "daily_question": {
+    "date": "2025-03-03",
+    "title": "🔍 Mystery: Genesis says God made 'garments of skin' for Adam and Eve — but who or what died to make them, and what does this silently foreshadow about the entire Bible?",
+    "article_title": "Death Before the Fall",
+    "options": [
+      "An animal died — foreshadowing Christ's sacrifice covering our shame",
+      "They were made from shed snake skin after the serpent's curse",
+      "God created the skins supernaturally without any death",
+      "The text is symbolic — no actual garments existed"
+    ],
+    "correct_answer": "An animal died — foreshadowing Christ's sacrifice covering our shame",
+    "explanation": "Genesis 3:21 is quietly one of the most profound verses in the Bible. God Himself killed an animal to cover Adam and Eve's shame — the first blood shed in Scripture. This single act foreshadows the entire sacrificial system: innocent life given to cover guilty humans. It points directly to Christ, the Lamb of God, whose blood covers our sin permanently. The garments of skin replace their fig-leaf self-effort (Genesis 3:7) — showing that human attempts to cover sin always fail; only God's provision works. From Eden to the Cross, the pattern is the same: substitutionary sacrifice."
+  },
+  "whats_new": {
+    "version_code": 1709500002,
+    "features": [
+      "New Article: 'Death Before the Fall' — Did animals die before Adam sinned?",
+      "Today's Mystery Challenge: The secret hidden in Genesis 3:21"
+    ]
+  }
 }
