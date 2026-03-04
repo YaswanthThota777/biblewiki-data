@@ -1,19 +1,20 @@
 {
+  "content_version": 2,
+  "last_updated": "2026-03-05T00:00:00Z",
   "daily_question": {
-    "title": "Who wrote the majority of the Psalms?",
+    "id": 1,
+    "title": "Historical Evidence for Pontius Pilate",
+    "article_title": "The Pilate Stone",
     "options": [
-      "King David",
-      "Moses",
-      "King Solomon",
-      "The Prophet Isaiah"
+      "The Pilate Stone",
+      "An ancient myth invented in the Middle Ages",
+      "A Roman political construct",
+      "A commonly misunderstood geographical landmark"
     ],
-    "correct_answer": "King David",
-    "explanation": "While the Book of Psalms has multiple authors including Moses (Psalm 90), Solomon, and others, the majority of the 150 Psalms — 73 in total — are attributed to King David. David was a gifted poet and musician, famously called 'a man after God's own heart' (Acts 13:22). His Psalms cover the full range of human emotion from despair (Psalm 22) to great praise (Psalm 23).",
-    "article_title": "The Sermon on the Mount",
-    "video_url": "",
-    "video_title": "",
-    "video_type": ""
-  
+    "correct_answer": "The Pilate Stone",
+    "explanation": "Mind-Blowing Fact: The Pilate Stone\n\nUncovered in 1961 in Caesarea Maritima, it proved that Pontius Pilate was indeed the Roman prefect of Judaea.",
+    "video_url": "https://www.youtube.com/watch?v=example",
+    "video_title": "Archaeology of the Passion",
+    "video_type": "YOUTUBE"
   }
 }
-
