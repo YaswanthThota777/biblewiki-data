@@ -1,47 +1,18 @@
 {
+  "content_version": 2,
+  "last_updated": "2026-03-05T00:00:00Z",
   "new_articles": [
     {
-      "title": "The Sermon on the Mount",
-      "subtitle": "Jesus' Greatest Teaching",
-      "imageResName": "img_sermon_mount",
-      "content": "## Introduction\n\nThe Sermon on the Mount is found in **Matthew 5–7** and is widely considered the most important ethical teaching of Jesus Christ.\n\n## The Beatitudes\n\nJesus began with the famous Beatitudes:\n\n- *Blessed are the poor in spirit, for theirs is the kingdom of heaven.*\n- *Blessed are those who mourn, for they will be comforted.*\n- *Blessed are the meek, for they will inherit the earth.*\n\n## Salt and Light\n\nJesus called His followers to be **salt of the earth** and **light of the world**, urging them to let their good deeds shine before others.\n\n## The Lord's Prayer\n\nThis sermon also contains the Lord's Prayer — the model prayer for all Christians:\n\n> *Our Father in heaven, hallowed be your name...*\n\n## Conclusion\n\nThe Sermon on the Mount challenges believers to live a life of radical love, humility, and trust in God.",
+      "id": 1,
+      "title": "The Historicity of the Resurrection",
+      "subtitle": "Did Jesus really rise from the dead?",
       "categoryId": 2,
-      "premium": false,
+      "content": "A detailed analysis of the Gary Habermas Minimal Facts approach demonstrating that virtually all critical scholars agree Jesus died by crucifixion...",
       "readingTimeMinutes": 8,
-      "primaryTags": "Jesus,Teaching,Ethics,Matthew",
-      "bibleReferences": "Matthew 5:1-12,Matthew 6:9-13,Matthew 7:24-27"
-    },
-    {
-      "title": "The Resurrection: Historical Evidence",
-      "subtitle": "Why Scholars Take It Seriously",
-      "imageResName": "img_resurrection",
-      "content": "## The Core Claim\n\nThe resurrection of Jesus Christ is the central claim of Christianity. Without it, as Paul writes in **1 Corinthians 15:17**, *\"your faith is futile.\"*\n\n## Historical Facts Scholars Accept\n\nEven secular historians widely accept these facts:\n\n1. **Jesus died by Roman crucifixion** — Tacitus, Josephus, and the Talmud all confirm this.\n2. **The tomb was found empty** — Even opponents of Christianity admitted this.\n3. **The disciples had post-resurrection experiences** — Multiple independent sources confirm this.\n4. **The disciples radically changed** — Frightened fishermen became bold martyrs.\n\n## Competing Theories\n\nSkeptics have proposed alternatives:\n- **Swoon Theory** — Jesus merely fainted. Refuted by medical analysis of crucifixion.\n- **Stolen Body** — The disciples stole it. But they died for this claim; people don't die for what they know is a lie.\n- **Hallucination** — Mass hallucinations of 500+ people simultaneously is psychologically impossible.\n\n## Conclusion\n\nThe bodily resurrection of Jesus remains the best historical explanation for all the known facts.",
-      "categoryId": 3,
+      "primaryTags": "apologetics, resurrection, jesus",
+      "bibleReferences": "1 Cor 15:3-8",
       "premium": false,
-      "readingTimeMinutes": 10,
-      "primaryTags": "Resurrection,Apologetics,History,Evidence",
-      "bibleReferences": "1 Corinthians 15:1-8,Matthew 28:1-10,John 20:1-18"
-    },
-    {
-      "title": "Understanding the Book of Revelation",
-      "subtitle": "Apocalyptic Literature Explained",
-      "imageResName": "img_revelation",
-      "content": "## What Is Revelation?\n\nThe Book of Revelation is the final book of the Bible, written by the Apostle John during his exile on the island of Patmos around **95 AD**.\n\n## Literary Genre\n\nRevelation is **apocalyptic literature** — a genre common in Jewish and early Christian tradition that uses:\n- Rich **symbolic imagery**\n- **Numbers** with deep theological meaning (7 = completion, 12 = God's people)\n- **Visions** about cosmic spiritual realities\n\n## Key Themes\n\n1. **The Sovereignty of God** — God reigns even in the worst of times.\n2. **The Victory of Christ** — The Lamb who was slain has overcome.\n3. **The Perseverance of the Saints** — Believers are called to endure.\n4. **Final Judgment and New Creation** — God makes all things new.\n\n## Interpretive Approaches\n\n| View | Meaning |\n|---|---|\n| Preterist | Events already happened (70 AD) |\n| Historicist | Events unfolding through church history |\n| Futurist | Events yet to come |\n| Idealist | Timeless spiritual truths |\n\n## Conclusion\n\nRevelation is ultimately a **book of hope** — assuring believers that God wins.",
-      "categoryId": 1,
-      "premium": true,
-      "readingTimeMinutes": 12,
-      "primaryTags": "Revelation,Prophecy,Apocalyptic,End Times",
-      "bibleReferences": "Revelation 1:1-3,Revelation 21:1-5,Revelation 22:20"
+      "imageResName": "img_empty_tomb"
     }
-  ],
-  "whats_new": {
-    "version": 2,
-    "features": [
-      "🆕 3 new articles added to the library",
-      "🔔 Smarter notifications — no more duplicate alerts",
-      "🖼️ Article header images now sync correctly",
-      "⚡ Faster background sync with split JSON sources"
-    ]
-  }
+  ]
 }
-
